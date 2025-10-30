@@ -1,4 +1,4 @@
-#  Axle Energy Demand Flexibility Analysis
+#  Energy Demand Flexibility Analysis
 
 This project analyzes and models the Demand Flexibility Service (DFS) market activity managed by NESO. The goal is to predict when DFS events will be called and estimate the accepted bid prices using publicly available electricity system data.
 
